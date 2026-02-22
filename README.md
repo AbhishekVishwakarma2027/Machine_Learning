@@ -91,16 +91,14 @@ The regression model was able to predict house prices effectively, demonstrating
 
 ## Project Structure
 ```
-QSkill-Internship-AI-ML/
+Machine_Learning/
 │
-├── Spam_Mail_Detector/
-│ ├── spam_mail_detector.ipynb
-│ └── dataset/
+├──dataset\
+|  |──train.csv
+|  |──SMSSpamCollection.data
 │
-├── House_Price_Prediction/
-│ ├── house_price_prediction.ipynb
-│ └── dataset/
-│
+|──House_Price_Prediction.ipynb
+|──SMS_Detector.ipynb
 └── README.md
 ```
 
